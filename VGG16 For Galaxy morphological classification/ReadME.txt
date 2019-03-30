@@ -1,0 +1,1 @@
+The dataset used in this Architecture is avaliable on kaggle or galaxy zoo 2 Project site!
