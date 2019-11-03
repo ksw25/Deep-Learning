@@ -1,5 +1,5 @@
 2 Methods Used:<br>
-2.1 Fully connected neural network [vanilla code in python ] (70%)<br>
+2.1 **Fully connected neural network** [vanilla code in python ] <br>
 • Implement the following operations: forward propagation, cost function, backward propagation, parameter updates, train, predict, affine-forward, affine-backward, activation forward and activation
 backward.in python using just the matrix operation library (numpy). Do not use any other python
 libraries/modules. (only need Pytorch to load the data)<br>
@@ -12,7 +12,7 @@ layer).<br>
 • After training the network, make predictions on the test set. Use the save predictions() function to
 save y pred to file “ans1-uni.npy”. The numpy array should contain the un-normalized scores from
 the network, so the shape should be (num classes, test size).<br>
-2.2 Convolutional Neural Network using PyTorch (30%)<br>
+2.2 **Convolutional Neural Network using PyTorch**<br>
 • Implement a convolutional neural network(CNN) using PyTorch on the same CIFAR10 dataset. Here
 as well split the train data into train and validation sets (10% of data) for hyperparameter tuning.<br>
 • The network should contain convolutional, pooling, and fully connected layers. You can experiment
